@@ -27,3 +27,4 @@ else:
 			else:
 				print('''vvedi parol eshe raz olen'!!!''')
 
+# nujen put' absolutnyi
