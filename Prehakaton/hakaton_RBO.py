@@ -136,7 +136,7 @@ else:
 while True:
 	primer = input("kak rabotaet reversed ")
 	try:
-		if primer == "reversed()":
+		if primer == "reversed("qwerty")":
 			a = [1,2,3,4]
 			b = reversed(a)
 			for x in b:
